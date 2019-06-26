@@ -1,0 +1,5 @@
+scrapy
+scrapyd
+pymongo
+opencc-python-reimplemented
+python-wordpress-xmlrpc
